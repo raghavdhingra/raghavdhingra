@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-RaghavDhingra-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/raghav-dhingra)](https://www.linkedin.com/in/raghav-dhingra/)
 [![Twitter Badge](https://img.shields.io/badge/-@raghavdhingra15-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/raghavdhingra15)](https://twitter.com/raghavdhingra15)
 [![Medium Badge](https://img.shields.io/badge/-@raghav.dhingra15-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@raghav.dhingra15)](https://medium.com/@raghav.dhingra15)
-[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:raghav.dhingra15@gmail.com)](mailto:raghav.dhingra15@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:admin@raghavdhingra.com)](mailto:admin@raghavdhingra.com)
 
 - 🔭 I’m currently working on DS.
 - 🌱 I’m currently learning WebRTC and WebAR
