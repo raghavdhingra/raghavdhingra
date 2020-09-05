@@ -23,7 +23,7 @@
 <code><img height="20" src="https://sentry.io/_assets/logos/node-3424bd51a773808e4b2473878d45009ded79ac1a897b64de6fb68b8e0dd4a697.svg"></code>
 <code><img height="20" src="https://www.oracle.com/a/ocom/img/obic-java-cup.svg"></code>
 <code><img height="20" src="https://www.postgresql.org/media/img/about/press/elephant.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://avatars3.githubusercontent.com/u/18133"></code>
 
 
 ![Raghav's github stats](https://github-readme-stats.vercel.app/api?username=raghavdhingra&show_icons=true&hide_border=true)
