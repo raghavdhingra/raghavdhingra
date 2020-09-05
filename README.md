@@ -18,7 +18,7 @@
 **Languages and Tools:**  
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png"></code>
-<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRXkOx99Z3_nlY3rJ9dZQ-9Xgyw52ch3_SFjA&usqp=CAU"></code>
+<code><img height="20" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800-619x619.jpg.webp"></code>
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/google-arcore-2038787-1721677.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoUiBESJGDJXAyWhFdXjlLIjyeW0Kqwkj9Ug&usqp=CAU"></code>
