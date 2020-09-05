@@ -22,7 +22,7 @@
 <code><img height="20" src="https://sentry.io/_assets/logos/django-f6f336cde20615169bbf4441c748188dd9903908bc6af952df3bd8f899c55a41.svg"></code>
 <code><img height="20" src="https://sentry.io/_assets/logos/node-3424bd51a773808e4b2473878d45009ded79ac1a897b64de6fb68b8e0dd4a697.svg"></code>
 <code><img height="20" src="https://www.oracle.com/a/ocom/img/obic-java-cup.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://www.postgresql.org/media/img/about/press/elephant.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
