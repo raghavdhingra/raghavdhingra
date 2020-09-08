@@ -26,4 +26,4 @@
 <code><img height="20" src="https://avatars3.githubusercontent.com/u/18133"></code>
 
 
-![Raghav's github stats](https://github-readme-stats.vercel.app/api?username=raghavdhingra&show_icons=true&hide_border=true)
+![Raghav's github stats](https://github-readme-stats.vercel.app/api?username=raghavdhingra&show_icons=true&theme=radical)
