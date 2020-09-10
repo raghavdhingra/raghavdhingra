@@ -5,14 +5,14 @@
 [![Medium Badge](https://img.shields.io/badge/-@raghav.dhingra15-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@raghav.dhingra15)](https://medium.com/@raghav.dhingra15)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:admin@raghavdhingra.com)](mailto:admin@raghavdhingra.com)
 
-- 🔭 I’m currently working on DS.
+- 🔭 I’m currently working on DS
 - 🌱 I’m currently learning WebRTC and WebAR
 - 👯 I’m looking to collaborate on Real time items exchange in AR
-- 🤔 I’m looking for help with Data structures and Competitive Programming.
+- 🤔 I’m looking for help with Data structures and Competitive Programming
 - 💬 Ask me about: Anything out of the box.
 - 📫 How to reach me: Mail - admin@raghavdhingra.com | Github - @raghavdhingra | Linkedin - @raghav-dhingra
-- 😄 Pronouns: Spidey.
-- ⚡ Fun fact: Js is funny and I love it.
+- 😄 Pronouns: Spidey
+- ⚡ Fun fact: Js is funny and I love it
 
 
 **Languages and Tools:**  
