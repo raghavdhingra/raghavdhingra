@@ -27,4 +27,4 @@
 <code><img height="20" src="https://avatars3.githubusercontent.com/u/18133"></code>
 
 
-![Raghav's github stats](https://github-readme-stats.vercel.app/api?username=raghavdhingra&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavdhingra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Raghav's github stats](https://github-readme-stats.vercel.app/api?username=raghavdhingra&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavdhingra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
