@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:admin@raghavdhingra.com)](mailto:admin@raghavdhingra.com)
 
 - 🔭 I’m currently working on Data Structures
-- 🌱 I’m currently learning WebRTC and WebAR
+- 🌱 I’m learning Art of life with some species of technology
 - 👯 I’m looking to collaborate on Real time items exchange in AR
 - 🤔 I’m looking for help with Data structures and Competitive Programming
 - 💬 Ask me about: Anything out of the box.
