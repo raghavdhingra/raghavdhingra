@@ -4,6 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@raghavdhingra15-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/raghavdhingra15)](https://twitter.com/raghavdhingra15)
 [![Medium Badge](https://img.shields.io/badge/-@raghav.dhingra15-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@raghav.dhingra15)](https://medium.com/@raghav.dhingra15)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:admin@raghavdhingra.com)](mailto:admin@raghavdhingra.com)
+[](https://visitor-badge.glitch.me/badge?page_id=raghavdhingra.raghavdhingra)
 
 - 🔭 I’m currently working on Data Structures
 - 🌱 I’m learning Art of life with some species of technology
