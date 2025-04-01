@@ -21,7 +21,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/raghavdhingra/raghavdhingra/refs/heads/master/assets/ts.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/raghavdhingra/raghavdhingra/refs/heads/master/assets/gcp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/raghavdhingra/raghavdhingra/refs/heads/master/assets/node.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/raghavdhingra/raghavdhingra/refs/heads/master/assets/next.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/raghavdhingra/raghavdhingra/refs/heads/master/assets/nextjs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/raghavdhingra/raghavdhingra/refs/heads/master/assets/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/raghavdhingra/raghavdhingra/refs/heads/master/assets/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/raghavdhingra/raghavdhingra/refs/heads/master/assets/python.png"></code>
