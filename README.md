@@ -6,14 +6,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:admin@raghavdhingra.com)](mailto:admin@raghavdhingra.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=raghavdhingra.raghavdhingra)
 
-- 🔭 I’m currently working on Data Structures
-- 🌱 I’m learning Art of life with some species of technology
-- 👯 I’m looking to collaborate on Real time items exchange in AR
-- 🤔 I’m looking for help with Data structures and Competitive Programming
+- 🔭 I’m currently working on BlotUp
+- 🌱 I’m learning Art of life with some spice of technology
+- 👯 I’m looking to collaborate in developer tool segment
+- 🤔 I’m looking for help with BlotUp.com
 - 💬 Ask me about: Anything out of the box.
 - 📫 How to reach me: Mail - admin@raghavdhingra.com | Github - @raghavdhingra | Linkedin - @raghav-dhingra
-- 😄 Pronouns: Spidey
-- ⚡ Fun fact: Js is funny and I love it
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love playing with keys, especially piano
 
 
 **Languages and Tools:**  
