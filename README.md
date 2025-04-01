@@ -23,11 +23,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/raghavdhingra/raghavdhingra/refs/heads/master/assets/node.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/raghavdhingra/raghavdhingra/refs/heads/master/assets/next.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/raghavdhingra/raghavdhingra/refs/heads/master/assets/aws.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png"></code>
-<code><img height="20" src="https://www.oracle.com/a/ocom/img/obic-java-cup.svg"></code>
-<code><img height="20" src="https://www.postgresql.org/media/img/about/press/elephant.png"></code>
-<code><img height="20" src="https://avatars3.githubusercontent.com/u/18133"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/raghavdhingra/raghavdhingra/refs/heads/master/assets/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/raghavdhingra/raghavdhingra/refs/heads/master/assets/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/raghavdhingra/raghavdhingra/refs/heads/master/assets/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/raghavdhingra/raghavdhingra/refs/heads/master/assets/postgres.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/raghavdhingra/raghavdhingra/refs/heads/master/assets/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/raghavdhingra/raghavdhingra/refs/heads/master/assets/git.png"></code>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavdhingra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
