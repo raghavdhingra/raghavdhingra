@@ -1,7 +1,7 @@
 # <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 /> I'm Raghav Dhingra <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="40" height="40" />
 
-[![Linkedin Badge](https://img.shields.io/badge/-RaghavDhingra-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/raghav-dhingra)](https://www.linkedin.com/in/raghav-dhingra/)
-[![Twitter Badge](https://img.shields.io/badge/-@raghavdhingra15-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/raghavdhingra15)](https://twitter.com/raghavdhingra15)
+[![Linkedin Badge](https://raw.githubusercontent.com/raghavdhingra/raghavdhingra/refs/heads/master/assets/linkedin.png)](https://www.linkedin.com/in/raghav-dhingra/)
+[![Twitter Badge](https://raw.githubusercontent.com/raghavdhingra/raghavdhingra/refs/heads/master/assets/x.png)](https://twitter.com/raghavdhingra15)
 [![Medium Badge](https://img.shields.io/badge/-@raghav.dhingra15-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@raghav.dhingra15)](https://medium.com/@raghav.dhingra15)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:admin@raghavdhingra.com)](mailto:admin@raghavdhingra.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=raghavdhingra.raghavdhingra)
