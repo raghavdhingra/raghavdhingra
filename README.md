@@ -29,6 +29,3 @@
 <code><img height="20" src="https://raw.githubusercontent.com/raghavdhingra/raghavdhingra/refs/heads/master/assets/postgres.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/raghavdhingra/raghavdhingra/refs/heads/master/assets/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/raghavdhingra/raghavdhingra/refs/heads/master/assets/git.png"></code>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavdhingra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
