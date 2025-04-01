@@ -17,7 +17,7 @@
 
 
 **Languages and Tools:**  
-<code><img height="20" src="[https://img.icons8.com/?size=512&id=PXTY4q2Sq2lG&format=png](https://img.icons8.com/?size=512&id=PXTY4q2Sq2lG&format=png)"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/raghavdhingra/raghavdhingra/refs/heads/master/assets/aws.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png"></code>
 <code><img height="20" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800-619x619.jpg.webp"></code>
